@@ -1,0 +1,131 @@
+1. Search Engines:
+
+    Google
+    Bing
+    DuckDuckGo
+    Shodan (for IoT and specialized searches)
+
+2. Web Scraping Tools:
+
+    Scrapy
+    BeautifulSoup
+    Selenium
+
+3. DNS Enumeration:
+
+    NSlookup
+    Dig
+    Host
+
+4. Whois Lookup:
+
+    Whois
+    ICANN Lookup
+    DomainTools
+
+5. Subdomain Enumeration:
+
+    Sublist3r
+    Amass
+    Subfinder
+    Recon-ng (framework)
+
+6. Reverse IP Lookup:
+
+    Spyse
+    ViewDNS
+    YouGetSignal
+
+7. Social Media Analysis:
+
+    Maltego (OSINT tool)
+    Social-Analyzer (OSINT tool)
+
+8. Email Gathering:
+
+    TheHarvester
+    Hunter.io
+    Recon-ng (framework)
+
+9. Port Scanners:
+
+    Nmap
+    Masscan
+    Zenmap (Nmap GUI)
+
+10. Network Mapping:
+- NetDiscover
+- Fping
+- Netstat
+
+11. Banner Grabbing:
+- Netcat (nc)
+- Telnet
+- BannerGrab
+
+12. Vulnerability Scanners:
+- Nessus
+- OpenVAS
+- Nexpose
+
+13. SSL/TLS Analysis:
+- SSLScan
+- SSLyze
+- TestSSLServer
+
+14. Network Traffic Analysis:
+- Wireshark
+- Tcpdump
+- tshark
+
+15. Social Engineering Tools:
+- SET (Social-Engineer Toolkit)
+- BeEF (Browser Exploitation Framework)
+- Gophish (Phishing)
+
+16. OSINT Frameworks:
+- Recon-ng
+- Datasploit
+- SpiderFoot
+
+17. Wireless Network Tools:
+- Aircrack-ng
+- Kismet
+- Reaver (WPS attacks)
+
+18. DNS Analysis:
+- Dnstracer
+- Dnswalk
+- Dnsenum
+
+19. Exploit Databases:
+- Exploit Database (Exploit-DB)
+- Metasploit (Exploitation Framework)
+
+20. Social Media Scraping:
+- Twint (for Twitter)
+- Instaloader (for Instagram)
+- Facebook Graph API (for Facebook)
+
+21. Threat Intelligence Platforms:
+- MISP (Malware Information Sharing Platform & Threat Sharing)
+- AIL (Analysis Information Leak)
+
+22. Packet Crafting:
+- Hping
+- Scapy
+- PacketFu
+
+23. GPS/Location Information:
+- The Global Positioning System (GPS)
+- Geolocation APIs (Google, OpenStreetMap)
+
+24. Cloud Security Scanners:
+- AWS Inspector
+- Azure Security Center
+- GCP Security Scanner
+
+25. SNMP Enumeration:
+- Snmpwalk
+- Snmp-check
+- Onesixtyone
